@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Type checker
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Linter
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FastAPI / Uvicorn
+*.log
+
+# SQLite
+*.db
+*.sqlite3
+
+# Coverage
+coverage.xml
+
+# Temporary files
+*.tmp
+*.swp
+
+# Cursor
+.cursor/
+
+# Misc
+.cache/
